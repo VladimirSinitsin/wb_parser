@@ -1,0 +1,5 @@
+CREATE TABLE Products(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT,
+    price TEXT
+);
